@@ -1,0 +1,25 @@
+C:\12 a\shisha bar\obj\Debug\shisha bar.csproj.AssemblyReference.cache
+C:\12 a\shisha bar\obj\Debug\shisha_bar.Form2.resources
+C:\12 a\shisha bar\obj\Debug\shisha_bar.Form3.resources
+C:\12 a\shisha bar\obj\Debug\shisha_bar.Properties.Resources.resources
+C:\12 a\shisha bar\obj\Debug\shisha bar.csproj.GenerateResource.cache
+C:\12 a\shisha bar\obj\Debug\shisha bar.csproj.CoreCompileInputs.cache
+C:\12 a\shisha bar\bin\Debug\shisha bar.exe.config
+C:\12 a\shisha bar\bin\Debug\shisha bar.exe
+C:\12 a\shisha bar\bin\Debug\shisha bar.pdb
+C:\12 a\shisha bar\obj\Debug\shisha_bar.Form1.resources
+C:\12 a\shisha bar\obj\Debug\shisha bar.exe
+C:\12 a\shisha bar\obj\Debug\shisha bar.pdb
+C:\Users\Kerima\Documents\sait\bin\Debug\shisha bar.exe.config
+C:\Users\Kerima\Documents\sait\bin\Debug\shisha bar.exe
+C:\Users\Kerima\Documents\sait\bin\Debug\shisha bar.pdb
+C:\Users\Kerima\Documents\sait\obj\Debug\shisha bar.csproj.AssemblyReference.cache
+C:\Users\Kerima\Documents\sait\obj\Debug\shisha bar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kerima\Documents\sait\obj\Debug\shisha_bar.Form1.resources
+C:\Users\Kerima\Documents\sait\obj\Debug\shisha_bar.Form2.resources
+C:\Users\Kerima\Documents\sait\obj\Debug\shisha_bar.Form3.resources
+C:\Users\Kerima\Documents\sait\obj\Debug\shisha_bar.Properties.Resources.resources
+C:\Users\Kerima\Documents\sait\obj\Debug\shisha bar.csproj.GenerateResource.cache
+C:\Users\Kerima\Documents\sait\obj\Debug\shisha bar.csproj.CoreCompileInputs.cache
+C:\Users\Kerima\Documents\sait\obj\Debug\shisha bar.exe
+C:\Users\Kerima\Documents\sait\obj\Debug\shisha bar.pdb
